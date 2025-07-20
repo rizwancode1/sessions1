@@ -7,6 +7,14 @@ modules , json , random , dates , math
 lamda ; 
 
 
+error, file, decorators, try
+
+
+
+
+{vowels:2, consonants:1}
+
+
 
 
 
